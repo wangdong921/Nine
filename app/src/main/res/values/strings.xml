@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Nine</string>
+    <string name="title_activity_alert">AlertActivity</string>
+</resources>
